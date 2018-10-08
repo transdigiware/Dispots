@@ -6,7 +6,7 @@ By using the simple steps we can make applications that are embedded on a mobile
 Avoid hotspots is expected to further facilitate the distribution of relief supplies and other collaborative applications, so that by building a secure supply chain, tough, can be tracked and transparent with blockchain is a great step that soon done because the supply chain is built with blockchain technology that can improve the distribution of supplies and other things, such as the distribution and deployment assistance before and after the great disaster
 
 ### First steps with wake up Blockchain using Composer Hyperledger Playground
-[Composer] (https://transdigiware.github.io/composer)
+[Composer](https://transdigiware.github.io/composer)
 
 ### Selanjut Penasihat QRadar dengan Watson 
 QRadar Advisor with Watson combines the cognitive capabilities of Watson and the industry leading QRadar Security Analytics Platform to uncover hidden threats and automate insights. The QRadar Advisor with Watson app will enrich security incidents compiled by the QRadar platform with insights from Watson for Cyber Security to investigate and respond to threats at unprecedented speed and scale. By augmenting the analyst’s ability to act on threats with confidence, Watson revolutionizes the way security analysts work.
