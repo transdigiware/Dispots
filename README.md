@@ -1,7 +1,7 @@
 # Dispots
 ### Dispots is avoid hotspots source disaster point areas are characterized by technology and supported with 3D mapping images strength with high resolution image.
 [A web app used to classify images of Cities at Night taken from the International Space Station](https://developer.ibm.com/patterns/identify-cities-from-space-using-watson-visual-recognition/)
-## "The point of Geothermal as sources of disaster"
+## "The point of Geothermal as sources of disaster" is a apps [the Dispots] (https://transdigiware.github.io/Dispots)
 ### Hotspot in disaster management such that the determination to significantly to Geothermal System in analyzing its potential as a source of disaster
 By using the simple steps we can make applications that are embedded on a mobile device, using the facilities to detect hot spots of the Earth that can lead to disaster in the signal, then the rate of application can be used as a benchmark in the method for distributing the aid in the form of drugs or funds in the area of disaster so as to reduce the impact of bad and other obstacles in disbursing aid in case of disaster in an area.
 Avoid hotspots is expected to further facilitate the distribution of relief supplies and other collaborative applications, so that by building a secure supply chain, tough, can be tracked and transparent with blockchain is a great step that soon done because the supply chain is built with blockchain technology that can improve the distribution of supplies and other things, For now Watson Studio we will used too such as the distribution and deployment assistance before and after the great disaster
