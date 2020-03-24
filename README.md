@@ -27,6 +27,6 @@ QRadar Advisor with Watson combines the cognitive capabilities of Watson and the
 Learn about the stages of disaster and multi effects arising in planning of returns back in fixing an area or areas affected by the impact of the disaster, [the collect input and output (I/O)](https://github.com/transdigiware/qiskit-api-py) data are sometimes swept up all of the negative and positive of existing events.
 When the disaster comes, all accurate and continuous information management can be used as a reference in the process of planning data collection, research programs for the recovery process and standard help hierarchy in times of disaster, pre-disaster and post-disaster, all of which can include large data also a large process involving computer systems that should have been developed for the advancement of humanity and technology.
 
-###  Kembangkan aplikasi web berfitur lengkap yang dibangun di Watson Discovery Service
+###  Develop a full featured web application built at Watson Discovery Service
 ### [Perhatikan gambaran ini](https://github.com/transdigiware/watson-discovery-ui/blob/master/doc/source/images/architecture.png)
 
