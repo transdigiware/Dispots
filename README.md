@@ -2,7 +2,8 @@
 Berbagai Status saat dalam perubahan Iklim mempengaruhi segalanya dan pada kenyataanya semua lini dan sumber sedang disibukan saat ini dengan perkembangan dari Virus nCOVID-19 telah mewabah hampir kesetiap benua secara global dan merata.
 
 ## Toolchain 
-Toolchain The Crisis Center saat yang kami buat adalah untuk menyiasati segala perubahan yang terjadi dalam Climate Change dan Wabah Virus yang berkembang cepat dengan membangun sebuah wadah media yang di kami sebut [The Cricis Center] (https://github.com/transdigiware/Crisis-Center) 
+Toolchain The Crisis Center saat yang kami buat adalah untuk menyiasati segala perubahan yang terjadi dalam Climate Change dan Wabah Virus yang berkembang cepat dengan membangun sebuah wadah media yang di kami sebut [The Cricis Center]
+ (https://github.com/transdigiware/Crisis-Center/) 
 
 ## Dispots
 
