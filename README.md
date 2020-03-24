@@ -1,5 +1,5 @@
 # Manage Climate Change  as a Source of Disaster Management
-Berbagai Status saat dalam perubahan Iklim mempengaruhi segalanya dan pada kenyataanya semua lini dan sumber  di sibukan saat ini dengan perkembangan dari Virus nCOVID-19 telah mewabah hampir kesetiap benua secara global dan merata.
+Berbagai Status saat dalam perubahan Iklim mempengaruhi segalanya dan pada kenyataanya semua lini dan sumber sedang disibukan saat ini dengan perkembangan dari Virus nCOVID-19 telah mewabah hampir kesetiap benua secara global dan merata.
 
 ## Dispots
 ### Dispots is avoid hotspots source disaster point areas are characterized by technology and supported with 3D mapping images strength with high resolution image.
