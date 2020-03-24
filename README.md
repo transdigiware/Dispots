@@ -1,5 +1,5 @@
 # Manage Climate Change  as a Source of Disaster Management
-Berbagai Status saat dalam perubahan Iklim mempengaruhi segalanya dan pada kenyataanya semua lini dan sumber sedang disibukan saat ini dengan perkembangan dari Virus nCOVID-19 telah mewabah hampir kesetiap benua secara global dan merata.
+Current Statuses in Climate Change affect everything and in fact all lines and sources are being preoccupied at this time with the development of the nCOVID-19 Virus has plagued almost every continent globally and evenly.
 
 ## Toolchain 
 Toolchain The Crisis Center saat yang kami buat adalah untuk menyiasati segala perubahan yang terjadi dalam Climate Change dan Wabah Virus yang berkembang cepat dengan membangun sebuah wadah media yang di kami sebut :
