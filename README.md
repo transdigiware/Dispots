@@ -1,8 +1,8 @@
 # Manage Climate Change  as a Source of Disaster Management
 Current Statuses in Climate Change affect everything and in fact all lines and sources are being preoccupied at this time with the development of the nCOVID-19 Virus has plagued almost every continent globally and evenly.
 
-## Toolchain 
-Toolchain The Crisis Center saat yang kami buat adalah untuk menyiasati segala perubahan yang terjadi dalam Climate Change dan Wabah Virus yang berkembang cepat dengan membangun sebuah wadah media yang di kami sebut :
+## Toolchain  
+The Crisis Center Toolchain when we made it was to deal with all the changes that occur in the fast-changing Climate Change and Plague Virus by building a media container we call :
 [The Cricis Center](https://github.com/transdigiware/Crisis-Center) 
 
 ## Dispots
