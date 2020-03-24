@@ -1,4 +1,7 @@
-# Dispots
+# Manage Climate Change  as a Source of Disaster Management
+Berbagai Status saat dalam perubahan Iklim mempengaruhi segalanya dan pada kenyataanya semua lini dan sumber  di sibukan saat ini dengan perkembangan dari Virus nCOVID-19 telah mewabah hampir kesetiap benua secara global dan merata.
+
+## Dispots
 ### Dispots is avoid hotspots source disaster point areas are characterized by technology and supported with 3D mapping images strength with high resolution image.
 [A web app used to classify images of Cities at Night taken from the International Space Station](https://developer.ibm.com/patterns/identify-cities-from-space-using-watson-visual-recognition/)
 ## "The point of Geothermal as sources of disaster" is a apps [the Dispots](https://transdigiware.github.io/Dispots)
